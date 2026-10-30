@@ -1,8 +1,9 @@
 # Deputy Workforce Operations MCP
 
-This repository is MCP Maker delivery `mcp-maker-001-deputy`. It inherits the Hyperdrift
-workspace operating rules and exists to prove the MCP Maker proposition with useful foundations
-built toward a production-ready delivery standard. Live Deputy integration remains pending
+> Inherits `~/dev/hyperdrift/AGENTS.md`.
+
+This repository is MCP Maker delivery `mcp-maker-001-deputy`. It exists to prove the MCP Maker
+proposition with useful foundations built toward a production-ready delivery standard. Live Deputy integration remains pending
 sandbox and customer workflow verification.
 
 ## Mission alignment
@@ -31,8 +32,7 @@ not implement a rejected direction without founder approval.
 
 ## User-facing voice
 
-Follow Hyperdrift's Speak to Enable covenant: strengths first, evidence second, next move third.
-Missing data limits confidence in the result; it is not a user failure.
+Missing data limits confidence; it is never the user's failure.
 
 ## Commercial role
 
